@@ -4,3 +4,4 @@ Nice to Meet u!
 asdfasdf
 
 feature1
+bug fix
